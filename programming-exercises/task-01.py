@@ -2,27 +2,25 @@
 #    Jeśli wczytamy więcej znaków, należy wziąć tylko pierwszy.
 #    Hint: skorzystaj z funkcji isdigit() i isinstance().
 
-# WERSJA isdigit()
-# if x.isdigit():
-#     print('Znak jest liczbą!')
-# else:
-#     print('Znak nie jest liczbą!')
+#WERSJA isdigit()
+def czyCyfra(x):
+    if x.isdigit():
+        return ("Znak jest liczbą")
+    else:
+        return ("Znak nie jest liczbą!")
 
 #WERSJA isinstance()
-
-x = input()
-x = x[0]
-try:
-    x = int(x)
-    if isinstance(x,int):
-        print('Znak jest liczbą!')
-except ValueError:
-    print('Znak nie jest liczbą!')
-
-def czyCyfra(x):
-
+def czyJestTypem(x):
+    try:
+        x = int(x)
+        if isinstance(x,int):
+            return ("Znak jest liczbą!")
+    except ValueError:
+        return ("Znak nie jeset liczbą!")
 
 
 if __name__ == '__main__':
     x = input('Podaj znak: ')[0]
+    print(f"Sposób isdigit(): {czyCyfra(x)}")
+    print(f"Sposób isinstance(): {czyJestTypem(x)}")
 
