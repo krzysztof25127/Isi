@@ -21,6 +21,6 @@ def czyJestTypem(x):
 
 if __name__ == '__main__':
     x = input('Podaj znak: ')[0]
-    print(f"Sposób isdigit(): {czyCyfra(x)}")
-    print(f"Sposób isinstance(): {czyJestTypem(x)}")
+    print(f"Funkcja isdigit(): {czyCyfra(x)}")
+    print(f"Funkcja isinstance(): {czyJestTypem(x)}")
 
