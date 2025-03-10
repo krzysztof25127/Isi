@@ -4,8 +4,8 @@ Hint: skorzystaj z funkcji isdigit() i isinstance().
 
 [Task-01](task-01.py).
 
-![Task-01](screenshots/task01_1.png)
-![Task-01](screenshots/task01_2.png)
+![Task-01](screenshots/task01_1.PNG)
+![Task-01](screenshots/task01_2.PNG)
 
 # Task-02
 Napisz program, który sprawdza czy wczytany łańcuch znakowy jest liczbą lub nie. Muszą być wczytane co najmniej dwa znaki.
