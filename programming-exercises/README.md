@@ -55,4 +55,6 @@ Hint: skorzystaj z modułów string i random.
 Stwórz folder utils, a w nim plik 'obliczenia.py', w którym należy zaimplementować cztery wybrane funkcje matematyczne z modułu math.
 Następnie należy utworzyć plik skrypt7-nr_albumu.py i zaimportować w nim ww. funkcje do obliczeń na przykładowych wartościach.
 
+[Task-07](skrypt7_25127.py) [Task-07-obliczenia.py](obliczenia.py)
 
+![Task-07](screenshots/task07.PNG)
