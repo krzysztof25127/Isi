@@ -14,7 +14,7 @@ Hint: skorzystaj z funkcji all().
 [Task-02](task-02.py).
 
 ![Task-02](screenshots/task02_1.PNG)
-![Task-02](screenshots/task02_2.png)
+![Task-02](screenshots/task02_2.PNG)
 
 # Task-03
 Napisz program, który szuka określonego ciągu znaków w łańcuchu znakowym i zwraca indeks pierwszego wystąpienia ciągu lub -1, gdy nie ma takiego ciągu.
