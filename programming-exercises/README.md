@@ -22,8 +22,8 @@ Hint: skorzystaj z funkcji find().
 
 [Task-03](task-03.py).
 
-![Task-03](screenshots/task03_1.png)
-![Task-03](screenshots/task03_2.png)
+![Task-03](screenshots/task03_1.PNG)
+![Task-03](screenshots/task03_2.PNG)
 
 # Task-04
 Napisz program, który szuka określonego ciągu znaków w łańcuchu znakowym i zwraca indeksy wszystkich wystąpień ciągu lub -1, gdy nie ma takiego ciągu.
@@ -31,6 +31,28 @@ Hint: skorzystaj z funkcji split().
 
 [Task-04](task-04.py).
 
-![Task-04](screenshots/task04.png)
+![Task-04](screenshots/task04_1.PNG)
+![Task-04](screenshots/task04_2.PNG)
+
+# Task-05
+Napisz program (na dwa sposoby), który szuka pierwiastków liczb od 1 do 256 (włącznie) podzielnych bez reszty przez 2.
+Hint: skorzystaj z modułu math i z tzw. 'list comprehensions'.
+
+[Task-05](task-05.py)
+
+![Task-05](screenshots/task05.PNG)
+
+# Task-06
+Napisz program, który tworzy słownik o nazwie zawierającej Twój numer albumu.
+Kluczami powinny być liczby od 10 do 20, a wartościami pseudolosowe łańcuch znaków o długości 8.
+Hint: skorzystaj z modułów string i random.
+
+[Task-06](task-06.py)
+
+![Task-06](screenshots/task06.PNG)
+
+# Task-07
+Stwórz folder utils, a w nim plik 'obliczenia.py', w którym należy zaimplementować cztery wybrane funkcje matematyczne z modułu math.
+Następnie należy utworzyć plik skrypt7-nr_albumu.py i zaimportować w nim ww. funkcje do obliczeń na przykładowych wartościach.
 
 
