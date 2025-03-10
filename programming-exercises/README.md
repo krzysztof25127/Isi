@@ -13,7 +13,7 @@ Hint: skorzystaj z funkcji all().
 
 [Task-02](task-02.py).
 
-![Task-02](screenshots/task02_1.png)
+![Task-02](screenshots/task02_1.PNG)
 ![Task-02](screenshots/task02_2.png)
 
 # Task-03
