@@ -58,3 +58,12 @@ Następnie należy utworzyć plik skrypt7-nr_albumu.py i zaimportować w nim ww.
 [Task-07](skrypt7_25127.py) [Task-07-obliczenia.py](obliczenia.py)
 
 ![Task-07](screenshots/task07.PNG)
+
+# Task-08
+Napisz program, który generuje losowy ciąg znaków o długości 100, a następnie utwórz słownik którego kluczami będą unikalne znaki występujące w ciągu, a wartościami liczba ich wystąpień w ciągu znakowym. 
+Utwórz listę, której każdy element to krotka (tupla), zawierająca kolejny klucz z ww. słownika i odpowiadającą mu wartość liczbową.
+Hint: skorzystaj z modułu collections i klasy Counter().
+
+[Task-08](task-08.py)
+
+![Task-08](screenshots/task08.py)
